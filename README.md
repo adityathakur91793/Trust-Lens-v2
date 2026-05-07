@@ -121,7 +121,7 @@ LLM APIs
 -Google
 -Anthropic
 
--> 6. LIMITATIONS (write honestly)
+-> 6. LIMITATIONS
 If evidence source wrong → system fails
 Cost increases (multiple APIs)
 Latency High
