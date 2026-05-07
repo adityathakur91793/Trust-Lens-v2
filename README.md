@@ -10,15 +10,15 @@ Add an invisible validation layer on top of LLMs
 -> 1. OLD PIPELINE (My initial idea)
 
 User Question
-  ↓
+  ->
 Generate 3 similar questions (Q1, Q2, Q3)
-  ↓
+  ->
 Get answers (A1, A2, A3)
-  ↓
+  ->
 Cosine Similarity
-  ↓
+  ->
 Factor / Probability Check
-  ↓
+  ->
 Final Answer + Accuracy %
 
 -> 2. PROBLEMS IN OLD PIPELINE
