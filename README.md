@@ -80,30 +80,30 @@ Confidence =
 
 4. FINAL PIPELINE (TRUSTLENS v2 — STRONG)
 User Question
-  ↓
+ -> 
 Question Expansion
 -- Q1, Q2, Q3 
 -- Diversity Check (SBERT)
-  ↓
+ -> 
 Multi-LLM Layer
 -- Model A
 -- Model B
 -- Model C
-  ↓
+ -> 
 Answer Pool
 -- A1, A2, A3...
-  ↓
+ -> 
 Processing
 -- Normalize
 -- Claim Extraction
-  ↓
+ -> 
 Validation Layer
 -- Answer Similarity
 -- Cross-Model Agreement
 -- Evidence Verification 
-  ↓
+ -> 
 Scoring Engine
-  ↓
+ -> 
 Final Output:
 - Answer
 - Confidence %
