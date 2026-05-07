@@ -127,4 +127,4 @@ Cost increases (multiple APIs)
 Latency High
 Complex questions still hard
 
-# Currently working on Working Prototype of Trust-Lens-v2 and Also Trying to elemnate Limatations in V3
+# Currently working on Working Prototype of Trust-Lens-v2 and Also Trying to eleminate Limitations in V3
